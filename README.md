@@ -11,7 +11,7 @@ Multiple users can **add and drag rectangles**, with live updates across all con
 * **Add Rectangles:** Dynamically create new rectangles on the canvas.
 * **Drag & Drop:** Move rectangles with live position updates.
 * **State Management:** Uses Zustand for client-side state.
-* **Error Handling:** Custom `AppError` class for robust backend error management.
+* **Error Handling:** Custom `AppError` class for backend error management.
 * **Responsive UI:** Styled with Tailwind CSS and ShadCN components (Card, Button).
 
 ---
